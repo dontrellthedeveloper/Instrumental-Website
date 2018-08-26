@@ -1,3 +1,14 @@
+<?php
+
+if(isset($_POST['loginButton'])) {
+    echo "login button was pressed";
+}
+
+if(isset($_POST['registerButton'])) {
+    echo "register button was pressed";
+}
+?>
+
 <html>
 <head>
     <title>Welcome to TalentWise</title>
