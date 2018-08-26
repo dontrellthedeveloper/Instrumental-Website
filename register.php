@@ -1,17 +1,51 @@
 <?php
 
+function sanitizeFormPassword($inputText) {
+    $inputText = strip_tags($inputText);
+    return $inputText;
+}
+
+function sanitizeFormUsername($inputText) {
+    $inputText = strip_tags($inputText);
+    $inputText = str_replace(" ", "", $inputText);
+    return $inputText;
+}
+
+function sanitizeFormString($inputText) {
+    $inputText = strip_tags($inputText);
+    $inputText = str_replace(" ", "", $inputText);
+    $inputText = ucfirst(strtolower($inputText));
+    return $inputText;
+}
+
 if(isset($_POST['loginButton'])) {
     echo "login button was pressed";
 }
 
 if(isset($_POST['registerButton'])) {
-    echo "register button was pressed";
+    
+    $username = sanitizeFormUsername($_POST['username']);
+
+    $firstName = sanitizeFormString($_POST['firstName']);
+
+    $lastName = sanitizeFormString($_POST['lastName']);
+
+    $email = sanitizeFormString($_POST['email']);
+
+    $email2 = sanitizeFormString($_POST['email2']);
+
+    $password = sanitizeFormPassword($_POST['password']);
+
+    $password2 = sanitizeFormPassword($_POST['password2']);
+
 }
 ?>
 
 <html>
 <head>
-    <title>Welcome to TalentWise</title>
+    <title>Welcome to TalentWise</titlif(isset($_POST['loginButton'])) {
+    echo "login button was pressed";
+}e>
 </head>
 <body>
 <div id="inputContainer">
