@@ -1,51 +1,11 @@
 <?php
-
-function sanitizeFormPassword($inputText) {
-    $inputText = strip_tags($inputText);
-    return $inputText;
-}
-
-function sanitizeFormUsername($inputText) {
-    $inputText = strip_tags($inputText);
-    $inputText = str_replace(" ", "", $inputText);
-    return $inputText;
-}
-
-function sanitizeFormString($inputText) {
-    $inputText = strip_tags($inputText);
-    $inputText = str_replace(" ", "", $inputText);
-    $inputText = ucfirst(strtolower($inputText));
-    return $inputText;
-}
-
-if(isset($_POST['loginButton'])) {
-    echo "login button was pressed";
-}
-
-if(isset($_POST['registerButton'])) {
-    
-    $username = sanitizeFormUsername($_POST['username']);
-
-    $firstName = sanitizeFormString($_POST['firstName']);
-
-    $lastName = sanitizeFormString($_POST['lastName']);
-
-    $email = sanitizeFormString($_POST['email']);
-
-    $email2 = sanitizeFormString($_POST['email2']);
-
-    $password = sanitizeFormPassword($_POST['password']);
-
-    $password2 = sanitizeFormPassword($_POST['password2']);
-
-}
+ include("includes/handlers/register-handler.php");
+include("includes/handlers/login-handler.php");
 ?>
 
 <html>
 <head>
-    <title>Welcome to TalentWise</titlif(isset($_POST['loginButton'])) {
-    echo "login button was pressed";
-}e>
+    <title>Welcome to TalentWise</title>
 </head>
 <body>
 <div id="inputContainer">
@@ -60,7 +20,7 @@ if(isset($_POST['registerButton'])) {
             <input id="loginPassword" name="loginPassword" type="password" placeholder="e.g. Your password" required>
         </p>
 
-        <button type="submit" name="loginButton">LOGIN</button>
+        <button type="submit" name="loginButton">LOG IN</button>
 
     </form>
 
