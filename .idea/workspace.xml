@@ -3,23 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ee0b594d-9f63-436c-a222-78d01c00931a" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/icons/._checkmark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/icons/._more.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/icons/._next.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/icons/._pause-green.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/icons/._pause.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/icons/._play-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/icons/._play.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/icons/._playlist.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/icons/._plus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/icons/._previous.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/icons/._repeat-active.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/icons/._repeat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/icons/._search.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/icons/._shuffle-active.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/icons/._shuffle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/icons/._volume-mute.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/icons/._volume.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,8 +17,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="539">
-              <caret line="45" column="101" selection-start-line="45" selection-start-column="101" selection-end-line="45" selection-end-column="101" />
+            <state relative-caret-position="479">
+              <caret line="64" column="52" selection-start-line="64" selection-start-column="52" selection-end-line="64" selection-end-column="52" />
               <folding>
                 <element signature="n#style#0;n#button#3;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -46,8 +29,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="614">
-              <caret line="62" column="19" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
+            <state relative-caret-position="584">
+              <caret line="98" column="20" selection-start-line="98" selection-start-column="20" selection-end-line="98" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -156,12 +139,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535235724940</updated>
-      <workItem from="1535235727318" duration="26403000" />
+      <workItem from="1535235727318" duration="27408000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26403000" />
+    <option name="totallyTimeSpent" value="27408000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1391" y="202" width="1372" height="803" extended-state="0" />
@@ -286,8 +269,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
-          <caret line="45" column="101" selection-start-line="45" selection-start-column="101" selection-end-line="45" selection-end-column="101" />
+        <state relative-caret-position="479">
+          <caret line="64" column="52" selection-start-line="64" selection-start-column="52" selection-end-line="64" selection-end-column="52" />
           <folding>
             <element signature="n#style#0;n#button#3;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -296,8 +279,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="614">
-          <caret line="62" column="19" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
+        <state relative-caret-position="584">
+          <caret line="98" column="20" selection-start-line="98" selection-start-column="20" selection-end-line="98" selection-end-column="20" />
         </state>
       </provider>
     </entry>
