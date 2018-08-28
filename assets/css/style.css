@@ -186,6 +186,16 @@ html, body {
     position: relative;
 }
 
+.navItemLink {
+    color: #a0a0a0;
+    text-decoration: none;
+}
+
+.navItemLink:hover {
+    color: #ffffff;
+    text-decoration: none;
+}
+
 .navItemLink .icon {
     position: absolute;
     right: 0;
