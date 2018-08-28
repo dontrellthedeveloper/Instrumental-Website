@@ -22,7 +22,25 @@ if (isset($_SESSION['userLoggedIn'])) {
         <div id="nowPlayingBar">
 
             <div id="nowPlayingLeft">
+            
+                <div class="content">
+                    <span class="albumLink">
+                        <img src="https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/4d/c3/c3/4dc3c3db-ed1f-1c6d-0452-c5b8db8003b7/source/1200x1200bb.jpg" class="albumArtwork">
+                    </span>
 
+                    <div class="trackInfo">
+
+                        <span class="trackName">
+                            <span>Get Loose</span>
+                        </span>
+
+                        <span class="artistName">
+                            <span>Black Pink</span>
+                        </span>
+
+                    </div>
+
+                </div>
             </div>
 
             <div id="nowPlayingCenter">
