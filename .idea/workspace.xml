@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee0b594d-9f63-436c-a222-78d01c00931a" name="Default" comment="" />
+    <list default="true" id="ee0b594d-9f63-436c-a222-78d01c00931a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/._checkmark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/._more.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/._next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/._pause-green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/._pause.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/._play-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/._play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/._playlist.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/._plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/._previous.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/._repeat-active.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/._repeat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/._search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/._shuffle-active.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/._shuffle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/._volume-mute.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/._volume.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +34,11 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+            <state relative-caret-position="539">
+              <caret line="45" column="101" selection-start-line="45" selection-start-column="101" selection-end-line="45" selection-end-column="101" />
+              <folding>
+                <element signature="n#style#0;n#button#3;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -23,17 +46,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="register.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/register.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="81" column="19" selection-start-line="81" selection-start-column="19" selection-end-line="81" selection-end-column="19" />
+            <state relative-caret-position="614">
+              <caret line="62" column="19" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -142,15 +156,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535235724940</updated>
-      <workItem from="1535235727318" duration="25277000" />
+      <workItem from="1535235727318" duration="26403000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25277000" />
+    <option name="totallyTimeSpent" value="26403000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1391" y="202" width="1372" height="803" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2037594" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -271,15 +286,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+        <state relative-caret-position="539">
+          <caret line="45" column="101" selection-start-line="45" selection-start-column="101" selection-end-line="45" selection-end-column="101" />
+          <folding>
+            <element signature="n#style#0;n#button#3;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+        <state relative-caret-position="614">
+          <caret line="62" column="19" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
         </state>
       </provider>
     </entry>
