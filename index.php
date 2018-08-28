@@ -1,21 +1,27 @@
 <?php
-    include("includes/config.php");
+include("includes/config.php");
 
-    session_destroy();
+session_destroy();
 
-    if(isset($_SESSION['userLoggedIn'])) {
-        $userLoggedIn = $_SESSION['userLoggedIn'];
-    }
-    else {
-        header("Location: register.php");
-    }
+if (isset($_SESSION['userLoggedIn'])) {
+    $userLoggedIn = $_SESSION['userLoggedIn'];
+} else {
+    header("Location: register.php");
+}
 ?>
 
 <html>
 <head>
     <title>Welcome to TalentWise</title>
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
 </head>
+
 <body>
-Hello!
+
+    <div id="nowPlayingBarContainer">
+
+    </div>
+
 </body>
+
 </html>
