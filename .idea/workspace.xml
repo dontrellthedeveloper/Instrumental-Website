@@ -2,7 +2,546 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee0b594d-9f63-436c-a222-78d01c00931a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._2014foresthilldrive.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._444.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._56nights.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._6speed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._afterthestorm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._alliwantisyou.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._anti.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._anytime.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._asIAm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._astroworld.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._atwhatcost.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._awakenmylove.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._baduizm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._barter6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._becauseTheInternet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._becauseofyou.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._beerbongsandbentleys.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._beyonce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._birdsinthetrap.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._blacksummersnight.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._bluestars.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._bodymusic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._bornsinner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._bossup3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._chapterII.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._chinxtape3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._chrisbrown.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._ciara.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._confessions.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._ctrl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._culture.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._culture2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._damn.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._ds2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._dwmtm.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._egodeath.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._fanOfAFan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._fortune.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._furious7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._future.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._futuresexlove.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._girl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._godforgivesidont.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._goodgirlgonebad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._goodkidmaadcity.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._graduation.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._grateful.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._hardtoweteasttodry.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._honest.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._i told you.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._iam.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._ifyourreadingthis.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._inaperfectworld.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._inmyownwords.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._issaAlbum.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._jackie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._journals.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._kanyewest.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._knowItAll.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._latenights.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._looking4myself.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._loud.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._love.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._lovehate.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._loveinthefuture.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._loveking.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._lovevsmoney.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._marcuscooper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._mchg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._morelife.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._musiisaweapon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._myeverything.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._nothingwasthesame.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._oxymoron.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._p2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._p3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._paintingpictures.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._peaceisamission.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._pnd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._prettyGirlsLikeTrapMusic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._purpose.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._rappaterntsanga.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._ratedr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._raydiation.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._ready.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._red.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._rollingpapers.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._royalty.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._sailout.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._sept5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._settle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._sexplaylist.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._slimeseason.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._sofargone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._sremmLife2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._starboy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._stillStriving.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._stoney.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._streetlove.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._takecare.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._thankmelater.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._theElementOfFreedom.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._thealbumaboutnothing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._theartofhustle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._theblueprint.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._theperfectlovetape.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._thepinkprint.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._therealtestament.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._tnpclones.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._trapSoul.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._unapologetic.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._views.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._wattba.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._wildheart.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._winsandlosses.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._wintersdiary2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._womantowoman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._yearofthegentlemen.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/._youshouldbehere.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/2014foresthilldrive.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/444.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/56nights.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/6speed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/afterthestorm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/alliwantisyou.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/anti.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/anytime.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/asIAm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/astroworld.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/atwhatcost.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/awakenmylove.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/baduizm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/barter6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/becauseTheInternet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/becauseofyou.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/beerbongsandbentleys.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/beyonce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/birdsinthetrap.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/blacksummersnight.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/bluestars.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/bodymusic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/bornsinner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/bossup3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/chapterII.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/chinxtape3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/chrisbrown.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/ciara.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/confessions.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/ctrl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/culture.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/culture2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/damn.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/ds2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/dwmtm.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/egodeath.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/fanOfAFan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/fortune.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/furious7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/future.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/futuresexlove.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/girl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/godforgivesidont.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/goodgirlgonebad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/goodkidmaadcity.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/graduation.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/grateful.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/hardtoweteasttodry.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/honest.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/i told you.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/iam.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/ifyourreadingthis.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/inaperfectworld.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/inmyownwords.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/issaAlbum.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/jackie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/journals.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/kanyewest.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/knowItAll.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/latenights.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/looking4myself.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/loud.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/love.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/lovehate.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/loveinthefuture.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/loveking.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/lovevsmoney.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/marcuscooper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/mchg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/morelife.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/musiisaweapon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/myeverything.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/nothingwasthesame.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/oxymoron.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/p2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/p3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/paintingpictures.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/peaceisamission.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/pnd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/prettyGirlsLikeTrapMusic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/purpose.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/rappaterntsanga.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/ratedr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/raydiation.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/ready.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/red.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/rollingpapers.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/royalty.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/sailout.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/sept5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/settle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/sexplaylist.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/slimeseason.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/sofargone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/sremmLife2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/starboy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/stillStriving.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/stoney.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/streetlove.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/takecare.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/thankmelater.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/theElementOfFreedom.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/thealbumaboutnothing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/theartofhustle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/theblueprint.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/theperfectlovetape.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/thepinkprint.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/therealtestament.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/tnpclones.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/trapSoul.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/unapologetic.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/views.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/wattba.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/wildheart.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/winsandlosses.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/wintersdiary2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/womantowoman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/yearofthegentlemen.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/artwork/youshouldbehere.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._21_Savage_Bank_Account_instrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._A$APFerg_Plain_Jane_Instrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._A_Boogie_Ft_Kodak_Black-_Drowning_Instrumental[Mp3Converter.net].mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._Alicia_Keys_Like_youll_Never_See_Me Again_Instrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._Alicia_Keys_Un-thinkable_(Im_Ready_Official_Instrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._Ariana_Grande_Best_MIstake_(ft_Big_Sean)_Instrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._Ariana_Grande_Only_1_Instrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._Ashanti_Rain_On_Me_Instrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._BPM-125(KEY_B)PARTYNEXTDOOR-WusGood-Curious(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._BPM-147(KEY_F)Drake-BriasInterludeInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._BPM107_ToryLanez-SayItInstrumental(Remake).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._BSZAtheweekendinstrumentalwithouthook.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._Bad_and_Boujee_Instrumental_Migos_Feat_Lil_Uzi_Vert[Mp3Converter.net].mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._BrandNewInstrumental-Drake.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._BrianMcknight-anytime_instrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._BrysonTiller-Dont(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._BrysonTiller-ForHoweverLong(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._BrysonTiller-Rambo(INSTRUMENTAL).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._ChildishGambinoPinkToes.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._Childish_Gambino-Redbone(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._ChrisBrown-AyoInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._ChrisBrown-DontJudgeMeInstrumentalStudioVersion.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._ChrisBrown-Ft.-Usher-Rick-Ross-New-Flame(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._ChrisBrown-LiquorInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._ChrisBrown-Loyal(Instrumental)ft.LilWayne&amp;FrenchMontana.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._ChrisBrown-Poppin-Instrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._Ciara-IGotYou(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._DANCE{BPM-128}{Key-Eb}NotNice(Instrumental) 2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._DANCE{BPM-87}{Key-F#}RudeBoy(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._DANCE{BPM-90}{Key-C}IInventedSex(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._DJSnake,AlunaGeorge-YouKnowYouLikeIt(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._Disclosure-Latch(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._DontKillMyVibeInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._Drake-Cameras-GoodOnesGo(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._Drake-DoingItWrongInstrumental .mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._Drake-FurthestThing(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._Drake-HeadlinesInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._Drake-JungleInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._Drake-Karaoke(instrumental){Original}.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._Drake-NoLongTalkft.Giggs(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._Drake-TheRealHer(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._Drake-Wu-TangForever(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._DrakeControllaInstrumental-AriGold.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._Drakeft.JayZ-PoundCakeInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._EbTheDreamILuvYourGirlInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._ErykahBadu-NextLifetime(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._ErykahBadu-On&amp;On(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._FlashingLights(Instrumental)KanyeWestfeat.Dwele.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._GoldLinkFeaturingBrentFaiyaz&amp;ShyGlizzy-Crew[Instrumental].mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._HIPHOP{BPM-111}{Key_A}SKRT(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._HIPHOP{BPM-94}{Key-F#}ICantLose(Instrumental) 2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._HoustatlantavegasFULLinstrumental(NOHOOK).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._ImSprung(instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._J.Cole-G.O.M.Dinstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._Jay-Z-FuckWithMeYouKnowIGotIt(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._JeremihFt.J.ColePlanesInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._JheneAiko-TheWorstInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._JohnLegend-AllofMe(INSTRUMENTAL).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._JustinBieber-Sorry(INSTRUMENTAL).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._JustinBieber-WhatDoYouMean(INSTRUMENTAL).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._LloydPlayersPrayerinstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._MajorLazer&amp;DJSnake-LeanOn(feat.MØ)[Instrumental].mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._MajorLazer-ColdWaterfeatJustinBieberMØ(STUDIOAcapellaHQ)[instrumental]link.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._MajorLazer-LightItUp(feat.Nyla)[Instrumental].mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._Meek_Mill_-_RICO_Instrumental[Mp3Converter.net].mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._Ne-Yo-Closer(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._NeYo-MadInstrumentalLYRICS.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._PARTYNEXTDOOR-DontRun(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._PharrellWilliamsFeat.JayZ-Frontin(InstrumentalLyrics).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._Plies-ShawtyInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._PostMalone-TooYoung-[Instrumental].mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._PrettyRicky-OnTheHotline-(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._R&amp;B{BPM-110}{Key-D}DanceForYou(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._R&amp;B{BPM-140}{Key-F}Urn(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._RaeSremmurd-BlackBeatlesInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._RaeSremmurd-LookAlive[Instrumental].mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._Rihanna-S&amp;M(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._RihannaFt.ChrisBrown-NobodysBusiness(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._Rihanna_ft._Ne-Yo_-HateThatILoveYou-(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._Rihannafeat.DrakeWhatsmynameInstrumental.mp3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._TheDream-LoveKing(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._TheDreamRockinThatThanginstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._TheWeekndStarboy(INSTRUMENTAL).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._ToryLanez-N.A.M.EInstrumentalRemake(Chixtape3)BDeAndre Freeman.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._ToryLanezS.M.N(SayMyName)InstrumentalRemakeByDeAndre Freeman.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._Usher-Climax(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._WizKhalifa-BlackandYellow(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/._dvsn-Hallucinations[Instrumental].mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/110EPARTYNEXTDOOR-PersianRugs(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/130EJustinBieber-AllThatMattersInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/170EDicedPineapplesInstrumentalVideoProd.ByCardiak(flatlinesoundeffect).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/190EDrakeFt.JheneAiko-FromTime(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/21_Savage_Bank_Account_instrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/A$APFerg_Plain_Jane_Instrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/AFutureFt.KanyeWest-iWon(Instrumental)(ProducedByMetro Boomin).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/AJustinBieber-AllBad(INSTRUMENTAL).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/AMiguel-SureThing(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/A_Beyoncé_Heaven_Instrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/A_Boogie_Ft_Kodak_Black-_Drowning_Instrumental[Mp3Converter.net].mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/A_Ciara-BodyParty(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/AbWale-Ft.-Usher-The-Matrimony-Making-Plans(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Alicia_Keys_Like_youll_Never_See_Me Again_Instrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Alicia_Keys_Un-thinkable_(Im_Ready_Official_Instrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Ariana_Grande_Best_MIstake_(ft_Big_Sean)_Instrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Ariana_Grande_Only_1_Instrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Ashanti_Rain_On_Me_Instrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BJayZ-TheStoryOfOJInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM-100{Key_Eb}WildThoughts(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM-105{Key-C}DidYouWrong(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM-110{Key-Eb}BecauseofYou(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM-115{Key-Db}SayGoodbye(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM-118{Key_D}TooGood(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM-120{Key-C}ShutItDown(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM-120{Key-C}WalkingOnTheMoon(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM-120{Key-F}Oui(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM-122(KEY-Ab)Drake-AllMeft.2Chainz&amp;BigSean(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM-124(KEY_F)youngthug-withthatinstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM-124{Key-F}LetMeLoveYou(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM-125(KEY_B)PARTYNEXTDOOR-WusGood-Curious(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM-131{Key-C}Falsetto(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM-137(KEY_Bb)Travis_Scott_-_Pick_Up_The_Phone_Instrumental_ReProd_abid[Mp3Converter.net].mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM-139(KEY_F)MigosMotorSportft.CardiB&amp;NickiMinaj(Instrumental Remake).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM-140(KEY_A)LilUziVert-DoWhatIWant(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM-140(KEY_D)KendrickLamar-DNA.(Instrumental)(Reprod.Wocki Beats)DAMN..mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM-140(KEY_Db)Kodak_Black_Roll_In_Peace_Instrumental_ReProd_abid[Mp3Converter.net].mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM-141(KEY_E) Travis_Scott_-_Butterfly_Effect_Instrumental[Mp3Converter.net].mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM-146_KEY_D_2_Chainz_Its_a_vibe_Instrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM-147(KEY_F)Drake-BriasInterludeInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM-150(KEY_F#)Kendrick_Lamar_HUMBLE_INSTRUMENTAL[Mp3Converter.net].mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM-150(KEY_F)Future-MaskOffInstrumental].mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM-160(KEY_Bb)Future-StickTalkInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM-160(KEY_Bb)PostMalone-Rockstarft.21Savage(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM-162(KEY_E)FuturefeaturingDrake-WhereYaAt(Official Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM-164{Key-F#}WhateverYouNeed(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM-172(KEY_D)KodakBlack-TunnelVision(Official instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM-188(KEY_C)Kodak_Black_Transportin_Instrumental_reprod_by_Haven_Beats[Mp3Converter.net].mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM-192{Key_C}ByMySide(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM-90{Key-F}LightItUp(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM-95{Key-F#}SoSick(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM100_NoRoleModelz-J.Cole(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM101_Drake-HoldOnWereGoingHome(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM104_Drake-Practice(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM106_FWU-PARTYNEXTDOOROfficialInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM107_ToryLanez-SayItInstrumental(Remake).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM111_YoungThug-Check(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM115_Drake-KnowYourself(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM115_Maxwell-PrettyWingsInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM120_Future-MarchMadness(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM120_usherburninstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM127_Drake-WithYou(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM127_YoungThug-Bestfriend(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM131__BrysonTiller-TheSequenceInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM142_Drake&amp;Future-Jumpman(instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM153_YoGotti-DownInTheDM-Instrumental-TheReturnMixtape 2015.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM73_TheDream-Shawtyisa10Instrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM82_MonicSoGone(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM84_Drake-MarvinsRoom(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPM89_J.Cole-WetDreamz(INSTRUMENTAL).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BPostMalone-IFallApartInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BRihanna-WhatNowHQOfficialInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BSZAtheweekendinstrumentalwithouthook.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BTreatMeLikeSomebodyTinkInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Bad_and_Boujee_Instrumental_Migos_Feat_Lil_Uzi_Vert[Mp3Converter.net].mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BbKnockYouDownInstrumental-KeriHilson-HQ1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BbRihanna-CloseToYou(INSTRUMENTAL).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BbRihanna-Higher(OfficialInstrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BbWizkhalifa-Seeyouagain(instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Beyonce/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BrandNewInstrumental-Drake.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BrianMcknight-anytime_instrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BrysonTiller-Dont(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BrysonTiller-ExchangeInstrumental .mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BrysonTiller-ForHoweverLong(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/BrysonTiller-Rambo(INSTRUMENTAL).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/CNickiMinajPillsNPotionsInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/CRihannaStay-Instrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/CTreySongz-JupiterLove(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/ChildishGambinoPinkToes.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Childish_Gambino-Redbone(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/ChrisBrown-AyoInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/ChrisBrown-BackToSleepInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/ChrisBrown-DontJudgeMeInstrumentalStudioVersion.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/ChrisBrown-Ft.-Usher-Rick-Ross-New-Flame(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/ChrisBrown-LiquorInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/ChrisBrown-Loyal(Instrumental)ft.LilWayne&amp;FrenchMontana.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/ChrisBrown-Poppin-Instrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/ChrisBrown/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Ciara-IBet(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Ciara-IGotYou(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Ciara/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/DANCE(BPM-84}(Key_B}ImIntoYou-JenniferLopez(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/DANCE{BPM-128}{Key-Eb}NotNice(Instrumental) 2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/DANCE{BPM-87}{Key-F#}RudeBoy(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/DANCE{BPM-90}{Key-C}IInventedSex(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/DANCE{BPM-98}{Key_Db}PostToBe(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/DANCE{BPM-98}{Key_F}DontTellEm(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/DJKhaled/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/DJSnake,AlunaGeorge-YouKnowYouLikeIt(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/DJustinTimberlake-UntilTheEndOfTime(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/DPharrellWilliams-ItGirl(OfficialInstrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/DbJ.ColeFt.Miguel-PowerTrip(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/DbNickiMinaj-SaveMeInstrumental(LyricsInDescription).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Disclosure-Latch(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/DontKillMyVibeInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Drake-Cameras-GoodOnesGo(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Drake-DoingItWrongInstrumental .mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Drake-FurthestThing(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Drake-HeadlinesInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Drake-JungleInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Drake-Karaoke(instrumental){Original}.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Drake-NoLongTalkft.Giggs(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Drake-TheRealHer(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Drake-Wu-TangForever(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Drake/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/DrakeControllaInstrumental-AriGold.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Drakeft.JayZ-PoundCakeInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/EKanyeWest-RealFriends(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Eb Ne-Yo-SexyLove(Instrumental)(1).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/EbOmarion-YouLikeItInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/EbRayJOneWishinstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/EbRihanna-Cry(KaraokeInstrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/EbTheDreamILuvYourGirlInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/ErykahBadu-NextLifetime(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/ErykahBadu-On&amp;On(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/F#Drake-TooMuchinstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/F#KeyshiaColeEnoughOfNoLoveinstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/F#Miguel-Coffee(INSTRUMENTAL).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/F#SchoolboyQ-StudioInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/F#_BLUE_Instrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/F#_MyEverything_Ariana_Grande_(Instrumental_Audio).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/FKendrickLamar-LOVE..mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/F_Here_Alessia_cara.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/FlashingLights(Instrumental)KanyeWestfeat.Dwele.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Flex(Remix)(Instrumental)-MadCobra.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Future/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/GoldLinkFeaturingBrentFaiyaz&amp;ShyGlizzy-Crew[Instrumental].mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/HIPHOP{BPM-111}{Key_A}SKRT(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/HIPHOP{BPM-94}{Key-F#}ICantLose(Instrumental) 2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/HIPHOP{BPM-98}{Key_Eb}ActRight(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/HoustatlantavegasFULLinstrumental(NOHOOK).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/ImSprung(instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/J.Cole-G.O.M.Dinstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/JCole/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/JColeftTLC-CrookedSmileInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Jay-Z-FuckWithMeYouKnowIGotIt(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/JeremihFt.J.ColePlanesInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/JheneAiko-TheWorstInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/JohnLegend-AllofMe(INSTRUMENTAL).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/JustinBieber-Sorry(INSTRUMENTAL).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/JustinBieber-WhatDoYouMean(INSTRUMENTAL).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/JustinTimberlake/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Kehlani-YouShouldBeHereInstrumentalLyricRemakebyEizy.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/LloydPlayersPrayerinstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/MajorLazer&amp;DJSnake-LeanOn(feat.MØ)[Instrumental].mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/MajorLazer-ColdWaterfeatJustinBieberMØ(STUDIOAcapellaHQ)[instrumental]link.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/MajorLazer-LightItUp(feat.Nyla)[Instrumental].mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Meek_Mill_-_RICO_Instrumental[Mp3Converter.net].mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Miguel/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Ne-Yo-Closer(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Ne-Yo-WhenYoureMad(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Ne-Yo/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/NeYo-MadInstrumentalLYRICS.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/PARTYNEXTDOOR-DontRun(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/PARTYNEXTDOOR/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/PharrellWilliamsFeat.JayZ-Frontin(InstrumentalLyrics).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Plies-ShawtyInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/PostMalone-TooYoung-[Instrumental].mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/PostMalone/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/PrettyRicky-OnTheHotline-(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/R&amp;B{BPM-110}{Key-D}DanceForYou(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/R&amp;B{BPM-110}{Key-D}TheBody(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/R&amp;B{BPM-140}{Key-F}Urn(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/RaeSremmurd-BlackBeatlesInstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/RaeSremmurd-LookAlive[Instrumental].mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/RickRoss/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Rihanna-S&amp;M(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Rihanna/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/RihannaFt.ChrisBrown-NobodysBusiness(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Rihanna_ft._Ne-Yo_-HateThatILoveYou-(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Rihannafeat.DrakeWhatsmynameInstrumental.mp3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/SongCry(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/TheDream-LoveKing(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/TheDream/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/TheDreamRockinThatThanginstrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/TheInternet-Girl(INSTRUMENTAL).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/TheWeekndStarboy(INSTRUMENTAL).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/ToryLanez-N.A.M.EInstrumentalRemake(Chixtape3)BDeAndre Freeman.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/ToryLanezS.M.N(SayMyName)InstrumentalRemakeByDeAndre Freeman.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/TravisScott/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Usher-Climax(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Usher/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/WizKhalifa-BlackandYellow(Instrumental).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/WizKhalifa/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/dvsn-Hallucinations[Instrumental].mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/navBarContainer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/nowPlayingBarContainer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,19 +552,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="36" column="97" lean-forward="true" selection-start-line="36" selection-start-column="97" selection-end-line="36" selection-end-column="97" />
+            <state relative-caret-position="495">
+              <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navBarContainer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/navBarContainer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="14" lean-forward="true" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nowPlayingBarContainer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/nowPlayingBarContainer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="31" />
               <folding>
-                <element signature="n#style#0;n#button#3;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#3;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="539">
@@ -50,8 +607,11 @@
         <option value="$PROJECT_DIR$/assets/js/register.js" />
         <option value="$PROJECT_DIR$/assets/css/register.css" />
         <option value="$PROJECT_DIR$/register.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/assets/navBarContainer.php" />
+        <option value="$PROJECT_DIR$/includes/navBarContainer.php" />
+        <option value="$PROJECT_DIR$/includes/nowPlayingBarContainer.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -65,8 +625,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1391" />
-    <option name="y" value="202" />
+    <option name="x" value="-1422" />
+    <option name="y" value="211" />
     <option name="width" value="1372" />
     <option name="height" value="803" />
   </component>
@@ -91,14 +651,7 @@
             <path>
               <item name="TalentWise" type="b2602c69:ProjectViewProjectNode" />
               <item name="TalentWise" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TalentWise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TalentWise" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="includes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -113,6 +666,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/includes" />
       <recent name="$PROJECT_DIR$/assets/images/profile-pics" />
     </key>
   </component>
@@ -138,15 +692,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535235724940</updated>
-      <workItem from="1535235727318" duration="31622000" />
+      <workItem from="1535235727318" duration="34013000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31622000" />
+    <option name="totallyTimeSpent" value="34013000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1391" y="202" width="1372" height="803" extended-state="0" />
+    <frame x="-1422" y="211" width="1372" height="803" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2037594" />
@@ -266,20 +820,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="36" column="97" lean-forward="true" selection-start-line="36" selection-start-column="97" selection-end-line="36" selection-end-column="97" />
-          <folding>
-            <element signature="n#style#0;n#button#3;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="539">
           <caret line="191" column="1" selection-start-line="191" selection-end-line="191" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/navBarContainer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="34" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/nowPlayingBar.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/nowPlayingBarContainer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#button#3;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/navBarContainer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="14" lean-forward="true" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
         </state>
       </provider>
     </entry>
