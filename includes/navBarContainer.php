@@ -2,7 +2,7 @@
     <nav class="navBar">
 
         <a href="index.php" class="logo">
-            <img src="assets/images/icons/logo.png" alt="">
+            <img src="assets/images/icons/logo4.png" alt="">
         </a>
 
         <div class="group">
