@@ -12,15 +12,13 @@
 
 
             echo "<div class='gridViewItem'>
-                
-                <img src='". $row['artworkPath'] ."'>
+                <a href='album.php?id=" . $row['id'] . "'>
+                <img src='" . $row['artworkPath'] . "'>
                 
                 <div class='gridViewInfo'>"
-
-                . $row['title'] .
-                
+                    . $row['title'] .
                 "</div>
-                
+                </a>
                 </div>";
 
         }
