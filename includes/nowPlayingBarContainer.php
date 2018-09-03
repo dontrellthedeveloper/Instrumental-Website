@@ -14,13 +14,19 @@ $jsonArray = json_encode($resultArray);
     $(document).ready(function () {
         currentPlaylist = (<?php echo $jsonArray; ?>);
         audioElement = new Audio();
-        setTrack(currentPlaylist[0], currentPlaylist, false);
+        setTrack(currentPlaylist[0], currentPlaylist, true);
     });
 
 
     function setTrack(trackId, newPlaylist, play) {
 
+        audioElement.setTrack("assets/music/BPM-115{Key-Db}SayGoodbye(Instrumental).mp3");
+
+        if(play) {
+            audioElement.play();
+        }
     }
+
 </script>
 
 <div id="nowPlayingBarContainer">
