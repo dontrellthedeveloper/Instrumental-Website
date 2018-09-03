@@ -44,14 +44,14 @@ $artist = $album->getArtist();
             $albumArtist = $albumSong->getArtist();
 
             echo "<li class='tracklistRow'>
+                  <div class='trackCount'>
                     <img class='play' src='assets/images/icons/play-white.png'>
-                    <div class='trackCount'>
-                        <span class='trackNumver'>$i</span>
+                        <span class='trackNumber'>$i</span>
                     </div>
 
                     <div class='trackInfo'>
                     <span class='trackName'>" . $albumSong->getTitle() . "</span>
-                    <span class='artistkName'>" . $albumArtist->getName() . "</span>
+                    <span class='artistName'>" . $albumArtist->getName() . "</span>
                     </div>
                     
                     <div class='trackOptions'>
