@@ -20,13 +20,20 @@ $jsonArray = json_encode($resultArray);
 
     function setTrack(trackId, newPlaylist, play) {
 
-        $.post()
-
         $.post("includes/handlers/ajax/getSongJson.php", { songId: trackId}, function (data) {
 
             let track = JSON.parse(data);
 
-            console.log(data);
+            $(".trackName span").text(track.title);
+
+            $.post("includes/handlers/ajax/getArtistJson.php", { artistId: track.artist}, function (data) {
+                let artist = JSON.parse(data);
+
+            $(".artistName span").text(artist.name);
+
+
+            });
+
             audioElement.setTrack(track.path);
             audioElement.play();
         });
@@ -63,7 +70,7 @@ $jsonArray = json_encode($resultArray);
                 <div class="trackInfo">
 
                         <span class="trackName">
-                            <span>Get Loose</span>
+                            <span></span>
                         </span>
 
                     <span class="artistName">
