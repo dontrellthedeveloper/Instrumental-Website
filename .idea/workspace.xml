@@ -242,7 +242,6 @@
       <change afterPath="$PROJECT_DIR$/assets/images/artwork/x.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/assets/images/artwork/yearofthegentlemen.jpeg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/assets/images/artwork/youshouldbehere.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/script.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/assets/music/._21_Savage_Bank_Account_instrumental.mp3" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/assets/music/._A$APFerg_Plain_Jane_Instrumental.mp3" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/assets/music/._A_Boogie_Ft_Kodak_Black-_Drowning_Instrumental[Mp3Converter.net].mp3" afterDir="false" />
@@ -538,10 +537,9 @@
       <change afterPath="$PROJECT_DIR$/assets/music/WizKhalifa/._.DS_Store" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/assets/music/dvsn-Hallucinations[Instrumental].mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/includes/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/includes/nowPlayingBarContainer.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/nowPlayingBarContainer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/register.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -573,8 +571,8 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/includes/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+            <state relative-caret-position="495">
+              <caret line="33" column="34" lean-forward="true" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -582,8 +580,17 @@
       <file leaf-file-name="nowPlayingBarContainer.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/includes/nowPlayingBarContainer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+            <state relative-caret-position="240">
+              <caret line="16" column="61" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -633,15 +640,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="register.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/register.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -665,10 +663,10 @@
         <option value="$PROJECT_DIR$/includes/classes/Album.php" />
         <option value="$PROJECT_DIR$/album.php" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
-        <option value="$PROJECT_DIR$/assets/js/script.js" />
         <option value="$PROJECT_DIR$/register.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/includes/header.php" />
+        <option value="$PROJECT_DIR$/assets/js/script.js" />
         <option value="$PROJECT_DIR$/includes/nowPlayingBarContainer.php" />
       </list>
     </option>
@@ -780,12 +778,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535235724940</updated>
-      <workItem from="1535235727318" duration="59569000" />
+      <workItem from="1535235727318" duration="60316000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59569000" />
+    <option name="totallyTimeSpent" value="60316000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1422" y="211" width="1372" height="803" extended-state="0" />
@@ -921,13 +919,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="14" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/register.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -986,15 +977,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/includes/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+        <state relative-caret-position="495">
+          <caret line="33" column="34" lean-forward="true" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/includes/nowPlayingBarContainer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+        <state relative-caret-position="240">
+          <caret line="16" column="61" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
         </state>
       </provider>
     </entry>
