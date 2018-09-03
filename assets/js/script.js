@@ -1,6 +1,6 @@
 
-var currentPlaylist = [];
-var audioElement;
+let currentPlaylist = [];
+let audioElement;
 
 function Audio() {
 

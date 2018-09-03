@@ -1,9 +1,9 @@
 <?php
-$songQuery = mysqli_query($con, "SELECT id FROM Songs ORDER BY RAND( LIMIT 10)");
+$songQuery = mysqli_query($con, "SELECT id FROM Songs ORDER BY RAND() LIMIT 10");
 $resultArray = array();
 
 while($row = mysqli_fetch_array($songQuery)) {
-    array_push($resultArray, $row['row']);
+    array_push($resultArray, $row['id']);
 }
 
 $jsonArray = json_encode($resultArray);
@@ -20,7 +20,16 @@ $jsonArray = json_encode($resultArray);
 
     function setTrack(trackId, newPlaylist, play) {
 
-        audioElement.setTrack("assets/music/BPM-115{Key-Db}SayGoodbye(Instrumental).mp3");
+        $.post()
+
+        $.post("includes/handlers/ajax/getSongJson.php", { songId: trackId}, function (data) {
+
+            let track = JSON.parse(data);
+
+            console.log(data);
+            audioElement.setTrack(track.path);
+            audioElement.play();
+        });
 
         if(play) {
             audioElement.play();
