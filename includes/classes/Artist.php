@@ -15,4 +15,4 @@ class Artist {
         return $artist['name'];
     }
 }
-?>
+
