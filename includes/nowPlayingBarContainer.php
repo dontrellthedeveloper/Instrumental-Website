@@ -21,17 +21,17 @@ $jsonArray = json_encode($resultArray);
     function setTrack(trackId, newPlaylist, play) {
 
         $.post("includes/handlers/ajax/getSongJson.php", { songId: trackId}, function (data) {
+        let track = JSON.parse(data);
+        $(".trackName span").text(track.title);
 
-            let track = JSON.parse(data);
-
-            $(".trackName span").text(track.title);
-
-            $.post("includes/handlers/ajax/getArtistJson.php", { artistId: track.artist}, function (data) {
-                let artist = JSON.parse(data);
-
+        $.post("includes/handlers/ajax/getArtistJson.php", { artistId: track.artist}, function (data) {
+            let artist = JSON.parse(data);
             $(".artistName span").text(artist.name);
+        });
 
-
+        $.post("includes/handlers/ajax/getAlbumJson.php", { albumId: track.album}, function (data) {
+            let album = JSON.parse(data);
+            $(".albumLink img").attr("src", album.artworkPath);
             });
 
             audioElement.setTrack(track.path);
@@ -64,7 +64,7 @@ $jsonArray = json_encode($resultArray);
 
             <div class="content">
                     <span class="albumLink">
-                        <img src="https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/4d/c3/c3/4dc3c3db-ed1f-1c6d-0452-c5b8db8003b7/source/1200x1200bb.jpg" class="albumArtwork">
+                        <img src="" class="albumArtwork">
                     </span>
 
                 <div class="trackInfo">
