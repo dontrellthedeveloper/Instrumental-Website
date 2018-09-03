@@ -23,9 +23,6 @@ include("includes/header.php");
 					</a>
 
 				</div>";
-
-
-
         }
         ?>
 

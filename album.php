@@ -12,8 +12,8 @@ $album = new Album($con, $albumId);
 
 $artist = $album->getArtist();
 
-echo $album->getTitle() . "<br>";
-echo $artist->getName();
+//echo $album->getTitle() . "<br>";
+//echo $artist->getName();
 ?>
 
 <div class="entityInfo">
@@ -24,7 +24,8 @@ echo $artist->getName();
 
     <div class="rightSection">
         <h2><?php echo $album->getTitle();?></h2>
-        <span>By <?php echo $artist->getName()?></span>
+        <p> <?php echo $artist->getName();?></p>
+        <p> <?php echo $album->getNumberOfSongs();?></p>
     </div>
 
 </div>
