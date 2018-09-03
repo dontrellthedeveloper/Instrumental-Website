@@ -19,7 +19,7 @@ function getInputValue($name)
 
 <html>
 <head>
-    <title>Welcome to TalentWise</title>
+    <title>Welcome to Tempo Textbook</title>
     <link rel="stylesheet" type="text/css" href="assets/css/register.css">
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
