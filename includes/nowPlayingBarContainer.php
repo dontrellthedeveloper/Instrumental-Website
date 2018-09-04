@@ -12,9 +12,9 @@ $jsonArray = json_encode($resultArray);
 <script>
 
     $(document).ready(function () {
-        currentPlaylist = (<?php echo $jsonArray; ?>);
+        let newPlaylist = (<?php echo $jsonArray; ?>);
         audioElement = new Audio();
-        setTrack(currentPlaylist[0], currentPlaylist, false);
+        setTrack(newPlaylist[0], newPlaylist, false);
         updateVolumeProgressBar(audioElement.audio);
 
 
@@ -100,7 +100,7 @@ $jsonArray = json_encode($resultArray);
             currentIndex++;
         }
 
-        let trackToPlay = currentPlaylist[currentIndex];
+        let trackToPlay = shuffle ? shufflePlaylist[currentIndex] : currentPlaylist[currentIndex];
         setTrack(trackToPlay, currentPlaylist, true);
     }
 
@@ -116,8 +116,44 @@ $jsonArray = json_encode($resultArray);
         $(".controlButton.volume img").attr("src", "assets/images/icons/" + imageName);
     }
 
+    function setShuffle() {
+        shuffle = !shuffle;
+        let imageName = shuffle ? "shuffle-active.png" : "shuffle.png";
+        $(".controlButton.shuffle img").attr("src", "assets/images/icons/" + imageName);
+
+        if(shuffle == true) {
+            shuffleArray(shufflePlaylist);
+            currentIndex = shufflePlaylist.indexOf(audioElement.currentlyPlaying.id);
+        }
+        else {
+            currentIndex = currentPlaylist.indexOf(audioElement.currentlyPlaying.id);
+        }
+    }
+
+    function shuffleArray(a) {
+        var j, x, i;
+        for (i = a.length - 1; i > 0; i--) {
+            j = Math.floor(Math.random() * (i + 1));
+            x = a[i];
+            a[i] = a[j];
+            a[j] = x;
+        }
+        return a;
+    }
+
     function setTrack(trackId, newPlaylist, play) {
 
+        if(newPlaylist != currentPlaylist) {
+            currentPlaylist = newPlaylist;
+            shufflePlaylist = currentPlaylist.slice();
+            shuffleArray(shufflePlaylist);
+        }
+
+        if(shuffle == true) {
+            currentIndex = shufflePlaylist.indexOf(trackId);
+        } else {
+            currentIndex = currentPlaylist.indexOf(trackId);
+        }
         currentIndex = currentPlaylist.indexOf(trackId);
         pauseSong();
 
@@ -194,7 +230,7 @@ $jsonArray = json_encode($resultArray);
 
                 <div class="buttons">
 
-                    <button class="controlButton shuffle" title="Shuffle button">
+                    <button class="controlButton shuffle" title="Shuffle button" onclick="setShuffle()">
                         <img src="assets/images/icons/shuffle.png" alt="Shuffle">
                     </button>
 
