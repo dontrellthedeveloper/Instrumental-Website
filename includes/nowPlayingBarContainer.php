@@ -12,7 +12,7 @@ $jsonArray = json_encode($resultArray);
 <script>
 
     $(document).ready(function () {
-        let newPlaylist = (<?php echo $jsonArray; ?>);
+        let newPlaylist = <?php echo $jsonArray; ?>;
         audioElement = new Audio();
         setTrack(newPlaylist[0], newPlaylist, false);
         updateVolumeProgressBar(audioElement.audio);
@@ -217,7 +217,7 @@ $jsonArray = json_encode($resultArray);
                         </span>
 
                     <span class="artistName">
-                            <span>Black Pink</span>
+                            <span></span>
                         </span>
 
                 </div>
