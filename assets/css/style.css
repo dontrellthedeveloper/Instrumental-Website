@@ -384,3 +384,7 @@ body {
     border-color: #2ebd59;
 }
 
+.borderBottom {
+    border-bottom: 1px solid #939393;
+    margin-bottom: 20px;
+}
