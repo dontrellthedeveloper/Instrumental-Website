@@ -173,11 +173,13 @@ $jsonArray = json_encode($resultArray);
             });
 
             audioElement.setTrack(track);
+
+            if(play) {
+                playSong();
+            }
         });
 
-        if(play) {
-            audioElement.play();
-        }
+
     }
 
     function playSong() {
