@@ -75,8 +75,8 @@ $artist = new Artist($con, $artistId);
         ?>
 
         <script>
-            let tempSongIds = '<?php echo json_encode($songIdArray); ?>';
-            tempPlaylist = JSON.parse(tempSongIds);
+            let tempSongId2 = '<?php echo json_encode($songIdArray); ?>';
+            tempPlaylist = JSON.parse(tempSongId2);
         </script>
 
     </ul>
