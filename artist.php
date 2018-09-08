@@ -100,6 +100,10 @@ $artist = new Artist($con, $artistId);
 
 				</div>";
     }
+
+
     ?>
+</div>
+
 
 
