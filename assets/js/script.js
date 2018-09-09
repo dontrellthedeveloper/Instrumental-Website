@@ -25,6 +25,20 @@ function openPage(url) {
     history.pushState(null, null, url);
 }
 
+function createPlaylist(username) {
+    let alert = prompt("Please enter the name of your playlist");
+
+    if(alert != null) {
+
+        $.post("includes/handlers/ajax/createPlaylist.php", {name: alert, username: username})
+            .done(function() {
+            openPage("yourMusic.php");
+        });
+
+    }
+}
+
+
 function formatTime(second) {
     let time = Math.round(second);
     let minutes = Math.floor(time / 60);
