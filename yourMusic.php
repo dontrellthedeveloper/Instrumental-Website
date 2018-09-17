@@ -13,6 +13,39 @@ include("includes/includedFiles.php");
             <button class="button green" onclick="createPlaylist()">NEW PLAYLIST</button>
         </div>
 
+        <?php
+//        $username = $userloggedIn->getUsername();
+
+        $playlistQuery = mysqli_query($con, "SELECT * FROM playlists WHERE owner='undefined'");
+
+        if(mysqli_num_rows($playlistQuery) == 0) {
+            echo "<span class='noResults'> You don't have any playlists yet </span>";
+        }
+
+        while($row = mysqli_fetch_array($playlistQuery)) {
+
+            echo "<div class='gridViewItem'>
+
+                
+                <div class='playlistImage'>
+                <img src='assets/images/icons/playlist.png' alt=''>
+                
+</div>
+						<div class='gridViewInfo'>"
+                . $row['name'] .
+                "</div>
+
+				</div>";
+        }
+
+
+        ?>
+
+
+
+
+
+
     </div>
 
 </div>

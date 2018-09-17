@@ -29,7 +29,7 @@ function createPlaylist() {
     console.log(userLoggedIn);
     let popup = prompt("Please enter the name of your playlist");
 
-    if(popup != null) {
+    if(popup != "") {
 
         $.post("includes/handlers/ajax/createPlaylist.php", { name: popup, username: userLoggedIn })
             .done(function(error) {
