@@ -24,6 +24,8 @@ include("includes/includedFiles.php");
 
         while($row = mysqli_fetch_array($playlistQuery)) {
 
+            $playlist = new Playlist($con, $row);
+
             echo "<div class='gridViewItem'>
 
                 
@@ -32,7 +34,13 @@ include("includes/includedFiles.php");
                 
 </div>
 						<div class='gridViewInfo'>"
-                . $row['name'] .
+                . $row['name']
+
+                /*
+                 BUG IN CODE. USERNAME LOGGING AS UNDEFINED????
+                 $playlist->getName()
+                 */
+                .
                 "</div>
 
 				</div>";
